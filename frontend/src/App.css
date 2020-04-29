@@ -1,0 +1,20 @@
+body {
+    background-color: #fcffa4;
+}
+
+.white {
+    background-color: white;
+}
+
+.header {
+    font-size: 40px;
+}
+
+.label {
+    font-size: 20px;
+}
+
+.image {
+    height: 425px;
+    width: 425px;
+}
